@@ -1,4 +1,4 @@
-
+# Лабораторная работа №2
 def count_numbers():
     lst =[]
     int_count = 0
